@@ -2,5 +2,5 @@ package com.tonry.issueapp;
 
 public class giticin {
     String merhaba;
-    String gitDegisiklik;
+    String gitDegisiklikleri;
 }
